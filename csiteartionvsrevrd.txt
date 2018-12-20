@@ -1,0 +1,10 @@
+0,9338.0,QLearningLamda
+50,10118.0,QLearningLamda
+100,9982.0,QLearningLamda
+150,10469.0,QLearningLamda
+200,10018.0,QLearningLamda
+250,8582.0,QLearningLamda
+300,9926.0,QLearningLamda
+350,10362.0,QLearningLamda
+400,9648.0,QLearningLamda
+450,10371.0,QLearningLamda
